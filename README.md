@@ -6,4 +6,4 @@ El sitio contiene distintas animaciones en una sola pagina, esto puede servirte 
 
 # 🪪 Creditos
 
-> Si vas a usar este bot, asegúrate de darme créditos!
+> Si vas a usar esta pagina, asegúrate de darme créditos!
